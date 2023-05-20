@@ -1,16 +1,47 @@
 body{
-     background-color:lightgreen ;
+     background-color:rgb(163, 231, 222) ;
      font-family: Arial, Helvetica, sans-serif;
+   
 }
 .img {
     width: 400px;
     height: auto;
-    align-content: center;    
+    margin-left: 425px;
+    
 }
 #photo {
     width:300px;
     height:auto ;
+      
 }
 .head {
     text-align: center;
+    color: rgb(5, 83, 109);
 }
+
+.box{
+    margin-top: 50px;    
+    height: 200px;
+    border: 2px;
+    border-color: rgb(209, 210, 235);
+    border-style: solid;
+    padding: 25px;
+    background-color: lightseagreen;
+}
+ 
+.button{
+    background-color: #b1a9db;
+    color: white;
+    padding:14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   
+    
+   
+    
+}
+div a:hover{
+    
+    background-color:rgb(180, 180, 235);
+    }
